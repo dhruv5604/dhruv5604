@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhruv5604
+- 👋 Hi, I’m Dhruv Solanki
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python,Django Web Framework,MachineLearning 
 - 💞️ I’m looking to collaborate on Django Web Framework
